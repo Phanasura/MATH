@@ -1,2 +1,0 @@
-1500b1vocab
-800b2vocab
