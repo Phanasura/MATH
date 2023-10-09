@@ -4,7 +4,8 @@ import tkinter as tk
 import math
 import time
 import threading
-
+set_appearance_mode("Dark")
+set_default_color_theme("blue")
 class App:
     try:
         def __init__(self, root):
